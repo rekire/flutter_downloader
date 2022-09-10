@@ -1,5 +1,9 @@
 [![flutter_community][fluttercommunity_badge]][fluttercommunity_link]
 
+This is my personal fork to check if I can improve the quality to ensure my own standards.
+
+I would not recommend right now to use this in the current form.
+
 # Flutter Downloader
 
 [![flutter_downloader on pub.dev][pub_badge]][pub_link]
@@ -27,17 +31,13 @@ The following steps require to open your `ios` project in Xcode.
 
 1. Enable background mode.
 
-<img width="512"
-src="https://github.com/hnvn/flutter_downloader/blob/master/screenshot/enable_background_mode.png?raw=true"/>
+<img width="512" src="blob/master/screenshot/enable_background_mode.png?raw=true" />
 
 2. Add `sqlite` library.
 
-<p>
-    <img width="512" src="https://github.com/hnvn/flutter_downloader/blob/master/screenshot/add_sqlite_1.png?raw=true" />
-</p>
-<p style="margin-top:30;">
-    <img width="512" src="https://github.com/hnvn/flutter_downloader/blob/master/screenshot/add_sqlite_2.png?raw=true" />
-</p>
+<img width="512" src="blob/master/screenshot/add_sqlite_1.png?raw=true" />
+
+<img width="512" src="blob/master/screenshot/add_sqlite_2.png?raw=true" />
 
 3. Configure `AppDelegate`:
 
